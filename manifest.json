@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,  
+  "short_name": "CoM",
+  "name": "ControlMachines HMI",
+  "icons":{"128": "https://cdn.glitch.com/26de59ed-137e-4c3b-8b69-2e3317c1c381%2FCoM_128x128.jpg?v=1613134550061"},
+  "description": "Copyright 2017 — 2020 FossilFree Software. All rights reserved.",
+  "start_url": "http://controlmachines.hmi:8080/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#3367D6",
+  "version": "3.1"
+  }
